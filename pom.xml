@@ -58,8 +58,7 @@
                 <version>${tomcat.version}</version>
                 <configuration>
                     <url>http://localhost:8080/manager/text</url>
-                    <username>admin</username>
-                    <password>11qqsd</password>
+                    <server>MyTomcat</server>
                     <path>/foxclient</path>
                 </configuration>
             </plugin>
